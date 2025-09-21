@@ -1,0 +1,18 @@
+DECRYPT AND DEFEND CREDITS
+
+Created for Hack The Nest 2025.
+
+Inspired by the "Caravan" minigame from Fallout New Vegas, and Balatro by LocalThunk.
+
+Seiya Burness - Idea, almost all base systems of game, and implementation of assets.
+
+Marcus Blenkhorn - Added the restart system, did some major bugfixing, and balance changes.
+
+Jack Kirby - Created all art, including the cards, background, and tutorial images, as well as assisted in various misc. tasks (like making this credits file!)
+
+Special thanks to:
+-God
+-That one cool dog I pet that one time
+-Isaac and his Isaac
+-Pop tarts and red bull
+-and you, for playing our game!
